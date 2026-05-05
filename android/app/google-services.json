@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700277316826",
+    "project_id": "flutter-4e0eb",
+    "storage_bucket": "flutter-4e0eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700277316826:android:bb4d58f8cb7bf987a1d9e3",
+        "android_client_info": {
+          "package_name": "canteen.queue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFrDCPfAiiY8GHTNFVwtC8pZD9kjEmCq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

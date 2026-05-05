@@ -1,2 +1,14 @@
 # QueueLess
-About Cross-platform Food Ordering &amp; Token Management App: dual admin/user interfaces with real-time menu management, live token queue system, concurrent order handling, order cancellation &amp; status tracking, and dynamic pricing updates — built with Flutter + Firebase.
+
+Cross-platform food ordering and token management app built with Flutter + Firebase.
+
+Features:
+- Dual admin/user interfaces
+- Real-time menu management
+- Live token queue handling
+- Order status tracking and cancellation
+- Dynamic pricing updates
+
+## About
+QueueLess is designed to simplify restaurant queue and order flow with a mobile-first interface.
+
